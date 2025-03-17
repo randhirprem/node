@@ -22,5 +22,10 @@ close callbacks: some close callbacks, e.g. socket.on('close', ...)
 6. Node is event driven. Oberver design pattern.
 
 ### Files
-[Events.js](/events.js)
-[Race.js](/race.js)
+
+[Events.js](/events.js) - Event Based
+[Race.js](/race.js) - Timer set
+
+1. If you aren't too familiar with the latest asynchronous JavaScript features, head on over to Appendix: Asynchronous JavaScript to get familiar with how what we've learned applies to JavaScript code. Once you are done with that section, come back here and continue with the course!
+
+2. If you have already worked extensively with asynchronous Javascript, Promises, and async / await, you can ignore the Appendix: Asynchronous JavaScript section and head on over to the next section where we learn how to use Node modules!
