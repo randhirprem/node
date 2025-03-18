@@ -87,5 +87,25 @@ For  example of a [module](/Node/Part3).
 6. Documentation on [nodemon](https://www.npmjs.com/package/nodemon).
 
 **Files & Example**
-File ~ [PACKAHE-EXAMPLE](/Part4/PACKAGE-EXAMPLE)
+File ~ [PACKAGE-EXAMPLE](/Part4/PACKAGE-EXAMPLE)
 README ~ [README.md PACKAGE-EXAMPLE](/Part4/PACKAGE-EXAMPLE/README.md)
+
+## Commit_5_PLANETS-PROJECT
+
+**[Kepler/K2](https://science.nasa.gov/mission/kepler/).**
+The Kepler space telescope was NASA’s first planet-hunting mission, assigned to search a portion of the Milky Way galaxy for Earth-sized planets orbiting stars outside our solar system. During nine years in deep space Kepler, and its second act, the extended mission dubbed K2, showed our galaxy contains billions of hidden "exoplanets," many of which could be promising places for life. They proved that our night sky is filled with more planets than even stars — knowledge that revolutionizes the understanding of our place in the cosmos.[Background](https://science.nasa.gov/exoplanets/can-we-find-life/).
+
+**[CSV](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) - You can download the CSC from the link.
+
+For node all stereams are an event-emmiter.
+
+**Tools**
+
+1. [CSV-parse](https://www.npmjs.com/package/csv-parse), [Doc](https://csv.js.org/parse/)- to parse CSV.
+2. [fs](https://nodejs.org/api/fs.html#fs_fs_createreadstream_path_options)- to read the file.
+3. [Read-stream](https://nodejs.org/api/fs.html#fs_fs_createreadstream_path_options)
+4. [A Review of the Best Habitable Planet Candidates](https://www.centauri-dreams.org/2015/01/30/a-review-of-the-best-habitable-planet-candidates/)
+
+**File**
+[Data](PLANETS-PROJECT/kepler_data.csv)
+[File](PLANETS-PROJECT/index.js)

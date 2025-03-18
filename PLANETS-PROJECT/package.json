@@ -1,0 +1,28 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "This is a keppler planets project example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randhirprem/node.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "keppler",
+    "nasa"
+  ],
+  "author": "Randhir Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randhirprem/node/issues"
+  },
+  "homepage": "https://github.com/randhirprem/node#readme",
+  "dependencies": {
+    "csv-parse": "^5.6.0"
+  }
+}
