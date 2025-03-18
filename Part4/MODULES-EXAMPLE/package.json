@@ -1,0 +1,29 @@
+{
+  "name": "modules-example",
+  "version": "1.0.0",
+  "description": "This is an npm example for the MODULE-EXAMPLE in Part3",
+  "main": "https.js",
+  "scripts": {
+    "start": "node https.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randhirprem/node.git"
+  },
+  "keywords": [
+    "Node",
+    "npm",
+    "Part4",
+    "MODULE-EXAMPLE"
+  ],
+  "author": "Randhir Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randhirprem/node/issues"
+  },
+  "homepage": "https://github.com/randhirprem/node#readme",
+  "dependencies": {
+    "axios": "^1.8.3"
+  }
+}

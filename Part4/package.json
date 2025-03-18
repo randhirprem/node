@@ -1,0 +1,11 @@
+{
+  "name": "part4",
+  "version": "1.0.0",
+  "description": "### Section 1 [NPM](https://www.npmjs.com/) **Node Package Manager** [NPM](https://docs.npmjs.com/) - NPM doccument 1. The node package manager is a tool where you can download all the necessary tools to help build your project e.g [PostgresSQL](https://www.npmjs.com/search?q=POSTGRES).  2. A module is a file that contains some code which may be exported from that module. A package is a collection of modules that have been package together. For  example of a [module](/Node/Part3). 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
