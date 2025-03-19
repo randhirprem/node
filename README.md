@@ -1,7 +1,7 @@
 ### This is the **MAIN** README.md for the following node folder.
 
 # The following are parts and components of node lessons and projects. Refer to the respective README.md for understandings.
-
+-------------------------------------------------------------------
 ## **COMMIT_1** basics of node.
 1. For this I learn please refere to the following folder
 [Part1](/Part1).
@@ -10,6 +10,7 @@
 3. To see what was learn
 [What was learn](/Part1/README.md).
 
+---------------------------------------------------------------------
 ## **Commit_2_lesson_2**
 
 ### Documentation
@@ -43,6 +44,7 @@ close callbacks: some close callbacks, e.g. socket.on('close', ...)
 [Events.js](/Part2/events.js) - event based things
 [Race.js](/Part2/race.js) - Node timer
 
+---------------------------------------------------------------------
 ## **Commit_3_lesson_3**
 
 **Part 3 of node.**
@@ -61,7 +63,7 @@ Please see [README.MD] (/Part3/MODULES-EXAMPLE/README.md) for files and extensio
 ✔ Exporting and importing modules (module.exports)
 ✔ Function abstraction for handling HTTP requests and responses.
 
-## Docs
+### Documentation
 
 1. [HTTP NODE Doc](https://nodejs.org/docs/latest/api/http.html)
 2. [ECMA-IMPORT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
@@ -70,8 +72,7 @@ Please see [README.MD] (/Part3/MODULES-EXAMPLE/README.md) for files and extensio
 5. [INDEX.JS VIDEO EXPLANATION](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 6. [INDEX.JS](https://nodejs.org/api/modules.html#modules_all_together).
 
-
-
+---------------------------------------------------------------------
 ## Commit_4_Part4_Package_Management
 
 ### Section 1 [NPM](https://www.npmjs.com/)
@@ -90,6 +91,7 @@ For  example of a [module](/Node/Part3).
 File ~ [PACKAGE-EXAMPLE](/Part4/PACKAGE-EXAMPLE)
 README ~ [README.md PACKAGE-EXAMPLE](/Part4/PACKAGE-EXAMPLE/README.md)
 
+---------------------------------------------------------------------
 ## Commit_5_PLANETS-PROJECT
 
 **[Kepler/K2](https://science.nasa.gov/mission/kepler/).**
@@ -111,6 +113,7 @@ For node all stereams are an event-emmiter.
 [File](PLANETS-PROJECT/index.js)
 [README.md](PLANETS-PROJECT/README.md)
 
+---------------------------------------------------------------------
 ## Commit_6_Web_Server
 
 ### What is it about
@@ -155,3 +158,23 @@ There are possible exceptions, but in general the following will be true:
 [folder](/http-server).
 [File](/http-server/index.js).
 [README.md](/http-server/README.md).
+
+---------------------------------------------------------------------
+## Commit-7_Express
+
+### Documentation and Background
+1. [Stack-Overflower developer survey](https://survey.stackoverflow.co/).In May 2024 over 65,000 developers responded to our annual survey about coding, working, AI and how they feel about all of those topics and more.
+2. [Express Doc](https://expressjs.com/). Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+3. [Express git](https://github.com/expressjs/express). Website and Documentation - [website repo]
+[GitHub Organization](https://github.com/expressjs/express/blob/master/Readme.md) for Official Middleware & Modules. Github .Discussions for discussion on the development and usage of Express
+PROTIP Be sure to read the migration guide to v5.
+4. [Koa](https://github.com/koajs/koa). -Expressive middleware for node.js using ES2017 async functions.
+5. [Koa vs Express](https://github.com/koajs/koa/blob/master/docs/koa-vs-express.md).
+6. [Next.js](https://nextjs.org/).
+7. [Server side rendering](https://blog.logrocket.com/improve-app-performance-react-server-side-rendering/)
+8. [POSTMAN](https://www.postman.com/).- Postman doc
+9. [insomnia](https://insomnia.rest/). - Insomnia doc
+10. ![Middleware](image.png). - Middlware flow.
+11. [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller).- Model–view–controller (MVC) is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements. These elements are:the model, the internal representations of information
+the view, the interface that presents information to and accepts it from the userthe controller, the software linking the two.
+12. [CRUD](https://restapitutorial.com/resources) - FOR RESTFUL API CRUD SEQUENCE.
