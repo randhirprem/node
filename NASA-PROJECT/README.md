@@ -19,4 +19,3 @@ Fixing of Main README.MD
 
 [server](NASA-PROJECT/server)
 [client](NASA-PROJECT/client)
-------------------------
