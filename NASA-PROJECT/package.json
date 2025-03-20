@@ -1,0 +1,38 @@
+{
+  "name": "nasa-project",
+  "version": "1.0.0",
+  "description": "nasa project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "install-server": "npm install --prefix server",
+    "install-client": "npm install --perfix client",
+    "install": "npm run install-server && npm run install-client",
+    "server": "npm run watch --prefix server",
+    "client": "npm start --prefix client",
+    "watch": "npm run server & npm run client",
+    "deploy": "npm run build --prefix client && npm start --prefix server",
+    "test": "npm run test --prefix server && npm run test --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randhirprem/node.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "react",
+    "nasa-project"
+  ],
+  "author": "Randhir Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randhirprem/node/issues"
+  },
+  "homepage": "https://github.com/randhirprem/node#readme",
+  "dependencies": {
+    "client": "^0.0.1",
+    "morgan": "^1.10.0"
+  }
+}

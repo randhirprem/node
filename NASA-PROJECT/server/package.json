@@ -1,0 +1,35 @@
+{
+  "name": "nasa-project-api",
+  "version": "1.0.0",
+  "description": "This is the back end of the nasa project a NASA Mission Control API",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randhirprem/node.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "react",
+    "nasa"
+  ],
+  "author": "Randhir Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randhirprem/node/issues"
+  },
+  "homepage": "https://github.com/randhirprem/node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parse": "^5.6.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
