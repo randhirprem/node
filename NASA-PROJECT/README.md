@@ -19,3 +19,11 @@ Fixing of Main README.MD
 
 [server](NASA-PROJECT/server)
 [client](NASA-PROJECT/client)
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## Commit 11 Testing API 
+
+### Documentation
+[Jest](https://jestjs.io/docs/getting-started) - Testing with Jest Api. Test runner, Test Fixtures, Assertion, Mocking.
