@@ -7,7 +7,8 @@
     "test-watch": "jest --watch",
     "test": "jest",
     "watch": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "cluster": "pm2 start src/server.js -i max"
   },
   "repository": {
     "type": "git",
@@ -28,7 +29,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "csv-parse": "^5.6.0",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "pm2": "^6.0.5"
   },
   "devDependencies": {
     "jest": "^29.7.0",

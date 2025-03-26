@@ -1,0 +1,28 @@
+{
+  "name": "performance-example",
+  "version": "1.0.0",
+  "description": "this is a performance example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randhirprem/node.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "performance"
+  ],
+  "author": "Randhir Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randhirprem/node/issues"
+  },
+  "homepage": "https://github.com/randhirprem/node#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pm2": "^6.0.5"
+  }
+}
